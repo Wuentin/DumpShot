@@ -1,6 +1,6 @@
 # DumpShot
 Dump local hives using scheduled tasks and forfiles. 
-```
+
 
                [~]
                |=|
@@ -11,7 +11,7 @@ Dump local hives using scheduled tasks and forfiles.
              | XXX |
              |-----|
              '-----'
-```
+
 ```powershell
 #Import Module
 Import-Module .\DumpShot.ps1
